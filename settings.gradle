@@ -1,0 +1,2 @@
+rootProject.name = "MasafetElSikka_Template"
+include ':app'
