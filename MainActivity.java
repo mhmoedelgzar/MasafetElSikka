@@ -1,5 +1,5 @@
 
-package com.masafalsikka.captain;
+package com.masafalsikka.rider;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
